@@ -16,7 +16,8 @@ wow chat technical support
 AppInfo
 
 
-![e501dc6647eace268c78f456c49e158](https://user-images.githubusercontent.com/37922559/168203794-b123619f-7668-411f-a858-4098c7acd0a9.png)
+<img width="558" alt="WeChatc6ce6317c6bdb805d682585e472a6a97" src="https://user-images.githubusercontent.com/36095568/168554910-d5cd2b3f-1e2d-4e74-bbfc-cf90e75a7600.png">
+
 
 This is the diary of tourists, recording the scenery and memories along the way
 Here, you can find beautiful scenery.
