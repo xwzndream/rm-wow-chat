@@ -40,11 +40,11 @@ A: Open the app store search to download and install
 
 ### Q: How to register an account?
 
-A: After opening the app, click Register to register
+A: It does not need to register an account manually and can be used normally
 
 ### Q: How to upload a travel diary?
 
-A: After opening the app login account, click + navigation bar to upload the travel diary?
+A: After opening the application, click + navigation bar to upload the travel diary?
 
 ### Q: How to return app information?
 
@@ -52,6 +52,6 @@ A: Can send mail to tikunga01@gmail.com. Contact us for
 
 ### Q: How to modify user data?
 
-A: After opening the app and logging in, enter the personal information and change it
+A: After opening the application, enter your personal information and make changes
 
 More questions can be sent to tikunga01@gmail.com. Contact us for
